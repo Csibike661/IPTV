@@ -3,7 +3,7 @@
         "name": "M1",
         "logo": "https://static.epg.best/in/AndFlix.in.png",
         "url": "https://streaming.mytvback.com:443/stream/NEwZRQdScZcASyDCETgRxQ/1628292847/channel001/stream.m3u8",
-        "_comment": "bad",
+        "_comment": "good",
         "category": "News",
         "languages": [
             {
@@ -24,10 +24,10 @@
         }
     },
     {
-        "name": "M2",
+        "name": "M2 / Petőfi TV",
         "logo": "https://static.epg.best/in/AndFlix.in.png",
         "url": "https://streaming.mytvback.com:443/stream/s6Eqc-4cUH-zanHFkxAr9g/1628292853/channel002/stream.m3u8",
-        "_comment": "bad",
+        "_comment": "good",
         "category": "News",
         "languages": [
             {
@@ -51,7 +51,7 @@
         "name": "M3",
         "logo": "https://static.epg.best/in/AndPictures.in.png",
         "url": "https://streamjump2.mediaworld.gq:443/m3/00QMyEzNwIjN.m3u8",
-        "_comment": "bad",
+        "_comment": "good",
         "category": "News",
         "languages": [
             {
@@ -99,7 +99,7 @@
         "name": "M5",
         "logo": "https://static.epg.best/in/AndPrive.in.png",
         "url": "https://c201-node61-cdn.connectmedia.hu/1005/07abe2afbe254c95668f534e64e6193c/610d7e32/index.m3u8",
-        "_comment": "bad",
+        "_comment": "good",
         "category": "Movies",
         "languages": [
             {
@@ -123,7 +123,7 @@
         "name": "Duna",
         "logo": "https://static.epg.best/in/AndPrive.in.png",
         "url": "https://c401-node61-cdn.connectmedia.hu/1002/e8f03c399b85a06fe247ee31c2145ffa/610d7e45/index.m3u8",
-        "_comment": "bad",
+        "_comment": "good",
         "category": "Movies",
         "languages": [
             {
@@ -147,7 +147,7 @@
         "name": "Duna World",
         "logo": null,
         "url": "https://c401-node61-cdn.connectmedia.hu/1002/e8f03c399b85a06fe247ee31c2145ffa/610d7e45/index.m3u8",
-        "_comment": "bad",
+        "_comment": "good",
         "category": null,
         "languages": [
             {
@@ -506,7 +506,7 @@
     {
         "name": "Film Now",
         "logo": null,
-        "url": "",
+        "url": "http://193.33.39.106:8790/",
         "_comment": "bad",
         "category": null,
         "languages": [
@@ -843,6 +843,30 @@
         "name": "Spektrum Home",
         "logo": "https://i.mjh.nz/.images/tv.101406020625.png",
         "url": "",
+        "_comment": "bad",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+        {
+        "name": "TV2 HD",
+        "logo": "https://i.mjh.nz/.images/tv.101406020625.png",
+        "url": "http://193.33.39.106:8782",
         "_comment": "bad",
         "category": null,
         "languages": [
