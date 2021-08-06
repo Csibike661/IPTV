@@ -242,8 +242,8 @@
     {
         "name": "TV2",
         "logo": null,
-        "url": "http://152.66.115.226:33390/bysid/202",
-        "_comment": "bad",
+        "url": "http://193.33.39.106:8782/",
+        "_comment": "good",
         "category": null,
         "languages": [
             {
