@@ -74,7 +74,7 @@
     {
         "name": "M4 Sport",
         "logo": "https://static.epg.best/in/AndPictures.in.png",
-        "url": "https://c401-node61-cdn.connectmedia.hu/1004/c602a963775004772d641996014166f6/610d7e1e/index.m3u8",
+        "url": "https://streaming.mytvback.com:443/stream/NxOJWZ7i92M5pXToKNPYrA/1628292894/channel005/stream.m3u8",
         "_comment": "bad",
         "category": "Sport",
         "languages": [
@@ -242,7 +242,7 @@
     {
         "name": "TV2",
         "logo": null,
-        "url": "",
+        "url": "http://152.66.115.226:33390/bysid/202",
         "_comment": "bad",
         "category": null,
         "languages": [
