@@ -2,7 +2,8 @@
     {
         "name": "M1",
         "logo": "https://static.epg.best/in/AndFlix.in.png",
-        "url": "https://streaming.mytvback.com:443/stream/NEwZRQdScZcASyDCETgRxQ/1628292847/channel001/stream.m3u8",
+        "url_1": "https://streaming.mytvback.com:443/stream/NEwZRQdScZcASyDCETgRxQ/1628292847/channel001/stream.m3u8",
+        "url": "https://c202-node61-cdn.connectmedia.hu/1000/e7c0016a851ae0a6a641dde62ad54c35/610edc84/index.m3u8",
         "_comment": "good",
         "category": "News",
         "languages": [
@@ -26,7 +27,8 @@
     {
         "name": "M2 / Petőfi TV",
         "logo": "https://static.epg.best/in/AndFlix.in.png",
-        "url": "https://streaming.mytvback.com:443/stream/s6Eqc-4cUH-zanHFkxAr9g/1628292853/channel002/stream.m3u8",
+        "url_1": "https://streaming.mytvback.com:443/stream/s6Eqc-4cUH-zanHFkxAr9g/1628292853/channel002/stream.m3u8",
+        "url": "https://c402-node61-cdn.connectmedia.hu/1001/aca3f43619799b27d424b3f2aae37cf4/610edcd4/index.m3u8",
         "_comment": "good",
         "category": "News",
         "languages": [
