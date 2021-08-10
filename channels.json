@@ -3,7 +3,8 @@
         "name": "M1",
         "logo": "https://static.epg.best/in/AndFlix.in.png",
         "url_1": "https://streaming.mytvback.com:443/stream/NEwZRQdScZcASyDCETgRxQ/1628292847/channel001/stream.m3u8",
-        "url": "https://c202-node61-cdn.connectmedia.hu/1000/e7c0016a851ae0a6a641dde62ad54c35/610edc84/index.m3u8",
+        "url_2": "https://c202-node61-cdn.connectmedia.hu/1000/e7c0016a851ae0a6a641dde62ad54c35/610edc84/index.m3u8",
+        "url": "https://c201-node62-cdn.connectmedia.hu/1000/ae39d45a5f0d21a4feb75ecc0deccde8/6112ba62/index.m3u8",
         "_comment": "good",
         "category": "News",
         "languages": [
@@ -28,7 +29,8 @@
         "name": "M2 / Petőfi TV",
         "logo": "https://static.epg.best/in/AndFlix.in.png",
         "url_1": "https://streaming.mytvback.com:443/stream/s6Eqc-4cUH-zanHFkxAr9g/1628292853/channel002/stream.m3u8",
-        "url": "https://c402-node61-cdn.connectmedia.hu/1001/aca3f43619799b27d424b3f2aae37cf4/610edcd4/index.m3u8",
+        "url_2": "https://c402-node61-cdn.connectmedia.hu/1001/aca3f43619799b27d424b3f2aae37cf4/610edcd4/index.m3u8",
+        "url": "https://c402-node61-cdn.connectmedia.hu/1001/9df5cca24ea5d7c250ad9284f8549096/6112bab3/index.m3u8",
         "_comment": "good",
         "category": "News",
         "languages": [
@@ -53,7 +55,8 @@
         "name": "M3",
         "logo": "https://static.epg.best/in/AndPictures.in.png",
         "url_1": "https://streamjump2.mediaworld.gq:443/m3/00QMyEzNwIjN.m3u8",
-        "url": "https://streamjump2.mediaworld.gq:443/m3/00QMyEzN0EDO.m3u8",
+        "url_2": "https://streamjump2.mediaworld.gq:443/m3/00QMyEzN0EDO.m3u8",
+        "url": "https://streamjump2.mediaworld.gq:443/m3/0EjMxcTOxATM.m3u8",
         "_comment": "good",
         "category": "News",
         "languages": [
@@ -78,8 +81,9 @@
         "name": "M4 Sport",
         "logo": "https://static.epg.best/in/AndPictures.in.png",
         "url_1": "https://streaming.mytvback.com:443/stream/NxOJWZ7i92M5pXToKNPYrA/1628292894/channel005/stream.m3u8",
-        "url": "https://c201-node61-cdn.connectmedia.hu/1004/88d4d3413a24b4ab8e278c4c53caa8d8/610fcfe9/index.m3u8",
-        "_comment": "bad",
+        "url_2": "https://c201-node61-cdn.connectmedia.hu/1004/88d4d3413a24b4ab8e278c4c53caa8d8/610fcfe9/index.m3u8",
+        "url": "https://c201-node62-cdn.connectmedia.hu/1004/bdc88fb5f5e435d839422b74c40e8778/6112bb23/index.m3u8",
+        "_comment": "good",
         "category": "Sport",
         "languages": [
             {
@@ -102,7 +106,8 @@
     {
         "name": "M5",
         "logo": "https://static.epg.best/in/AndPrive.in.png",
-        "url": "https://c201-node61-cdn.connectmedia.hu/1005/07abe2afbe254c95668f534e64e6193c/610d7e32/index.m3u8",
+        "url_1": "https://c201-node61-cdn.connectmedia.hu/1005/07abe2afbe254c95668f534e64e6193c/610d7e32/index.m3u8",
+        "url": "https://c402-node62-cdn.connectmedia.hu/1005/5eb18dc0f28115c7d824991727c2180b/6112bb4a/index.m3u8",
         "_comment": "good",
         "category": "Movies",
         "languages": [
@@ -126,7 +131,8 @@
     {
         "name": "Duna",
         "logo": "https://static.epg.best/in/AndPrive.in.png",
-        "url": "https://c401-node61-cdn.connectmedia.hu/1002/e8f03c399b85a06fe247ee31c2145ffa/610d7e45/index.m3u8",
+        "url_1": "https://c401-node61-cdn.connectmedia.hu/1002/e8f03c399b85a06fe247ee31c2145ffa/610d7e45/index.m3u8",
+        "url": "https://c202-node62-cdn.connectmedia.hu/1002/9e96b09520c005c4eabf2fdf251e6c49/6112bb71/index.m3u8",
         "_comment": "good",
         "category": "Movies",
         "languages": [
@@ -150,7 +156,8 @@
     {
         "name": "Duna World",
         "logo": null,
-        "url": "https://c401-node61-cdn.connectmedia.hu/1002/e8f03c399b85a06fe247ee31c2145ffa/610d7e45/index.m3u8",
+        "url_1": "https://c401-node61-cdn.connectmedia.hu/1002/e8f03c399b85a06fe247ee31c2145ffa/610d7e45/index.m3u8",
+        "url": "https://c202-node61-cdn.connectmedia.hu/1103/fed86e2e6831274a9f672a53d64eedad/6112bba0/index.m3u8",
         "_comment": "good",
         "category": null,
         "languages": [
