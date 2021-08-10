@@ -873,53 +873,5 @@
             "name": "10",
             "url": null
         }
-    },
-    {
-        "name": "YouTube Video",
-        "logo": "https://i.mjh.nz/.images/tv.101406020625.png",
-        "url": "https://www.youtube.com/watch?v=v_3V6aOyxP8",
-        "_comment": "bad",
-        "category": null,
-        "languages": [
-            {
-                "code": "hu",
-                "name": "Hungarian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "hu",
-                "name": "Hungarian"
-            }
-        ],
-        "tvg": {
-            "id": "10.au",
-            "name": "10",
-            "url": null
-        }
-    },
-    {
-        "name": "YouTube Live",
-        "logo": "https://i.mjh.nz/.images/tv.101406020625.png",
-        "url": "https://www.youtube.com/watch?v=fWiyf3mcVkk",
-        "_comment": "bad",
-        "category": null,
-        "languages": [
-            {
-                "code": "hu",
-                "name": "Hungarian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "hu",
-                "name": "Hungarian"
-            }
-        ],
-        "tvg": {
-            "id": "10.au",
-            "name": "10",
-            "url": null
-        }
     }
 ]
