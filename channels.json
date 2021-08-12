@@ -873,5 +873,389 @@
             "name": "10",
             "url": null
         }
+    },
+    {
+        "name": "1 Music Channel Hungary",
+        "logo": "",
+        "url": "http://1music.hu/1music.m3u8?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "Balaton TV",
+        "logo": "",
+        "url": "https://stream.iptvservice.eu/hls/balatontv.m3u8?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "TV Budakalasz",
+        "logo": "",
+        "url": "https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "Halom TV",
+        "logo": "",
+        "url": "http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "Komlós TV",
+        "logo": "",
+        "url": "https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "Hegyvidék TV",
+        "logo": "",
+        "url": "http://tv.hegyvidek.hu/stream_mpeg.flv?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "Lóverseny közvetítés",
+        "logo": "",
+        "url": "http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "",
+        "logo": "",
+        "url": "",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "",
+        "logo": "",
+        "url": "",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "",
+        "logo": "",
+        "url": "",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "",
+        "logo": "",
+        "url": "",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "",
+        "logo": "",
+        "url": "",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "",
+        "logo": "",
+        "url": "",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "",
+        "logo": "",
+        "url": "",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "",
+        "logo": "",
+        "url": "",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "",
+        "logo": "",
+        "url": "",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
     }
 ]
