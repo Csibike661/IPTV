@@ -1,6 +1,7 @@
 [
     {
         "name": "M1",
+        "tvg-id": "m1.hu",
         "logo": "https://static.epg.best/in/AndFlix.in.png",
         "url_1": "https://streaming.mytvback.com:443/stream/NEwZRQdScZcASyDCETgRxQ/1628292847/channel001/stream.m3u8",
         "url_2": "https://c202-node61-cdn.connectmedia.hu/1000/e7c0016a851ae0a6a641dde62ad54c35/610edc84/index.m3u8",
@@ -27,6 +28,7 @@
     },
     {
         "name": "M2 / Petőfi TV",
+        "tvg-id": "m2.hu",
         "logo": "https://static.epg.best/in/AndFlix.in.png",
         "url_1": "https://streaming.mytvback.com:443/stream/s6Eqc-4cUH-zanHFkxAr9g/1628292853/channel002/stream.m3u8",
         "url_2": "https://c402-node61-cdn.connectmedia.hu/1001/aca3f43619799b27d424b3f2aae37cf4/610edcd4/index.m3u8",
@@ -53,6 +55,7 @@
     },
     {
         "name": "M3",
+        "tvg-id": "m3.hu",
         "logo": "https://static.epg.best/in/AndPictures.in.png",
         "url_1": "https://streamjump2.mediaworld.gq:443/m3/00QMyEzNwIjN.m3u8",
         "url_2": "https://streamjump2.mediaworld.gq:443/m3/00QMyEzN0EDO.m3u8",
@@ -79,6 +82,7 @@
     },
     {
         "name": "M4 Sport",
+        "tvg-id": "M4Sport.hu",
         "logo": "https://static.epg.best/in/AndPictures.in.png",
         "url_1": "https://streaming.mytvback.com:443/stream/NxOJWZ7i92M5pXToKNPYrA/1628292894/channel005/stream.m3u8",
         "url_2": "https://c201-node61-cdn.connectmedia.hu/1004/88d4d3413a24b4ab8e278c4c53caa8d8/610fcfe9/index.m3u8",
@@ -105,6 +109,7 @@
     },
     {
         "name": "M5",
+        "tvg-id": "m5.hu",
         "logo": "https://static.epg.best/in/AndPrive.in.png",
         "url_1": "https://c201-node61-cdn.connectmedia.hu/1005/07abe2afbe254c95668f534e64e6193c/610d7e32/index.m3u8",
         "url": "https://c402-node62-cdn.connectmedia.hu/1005/5eb18dc0f28115c7d824991727c2180b/6112bb4a/index.m3u8",
@@ -130,6 +135,7 @@
     },
     {
         "name": "Duna",
+        "tvg-id": "Duna.hu",
         "logo": "https://static.epg.best/in/AndPrive.in.png",
         "url_1": "https://c401-node61-cdn.connectmedia.hu/1002/e8f03c399b85a06fe247ee31c2145ffa/610d7e45/index.m3u8",
         "url": "https://c202-node62-cdn.connectmedia.hu/1002/9e96b09520c005c4eabf2fdf251e6c49/6112bb71/index.m3u8",
@@ -155,6 +161,7 @@
     },
     {
         "name": "Duna World / M4 Sport+",
+        "tvg-id": "Duna2.hu",
         "logo": null,
         "url_1": "https://c401-node61-cdn.connectmedia.hu/1002/e8f03c399b85a06fe247ee31c2145ffa/610d7e45/index.m3u8",
         "url": "https://c202-node61-cdn.connectmedia.hu/1103/fed86e2e6831274a9f672a53d64eedad/6112bba0/index.m3u8",
@@ -180,6 +187,7 @@
     },
     {
         "name": "RTL Klub HD",
+        "tvg-id": "RTLKlub.hu",
         "logo": null,
         "url": "https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8",
         "_comment": "good",
@@ -204,6 +212,7 @@
     },
     {
         "name": "RTL II HD",
+        "tvg-id": "RTL2.hu",
         "logo": null,
         "url": "https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8",
         "_comment": "good",
@@ -228,6 +237,7 @@
     },
     {
         "name": "RTL+",
+        "tvg-id": "RTLplus.hu",
         "logo": null,
         "url": "https://stream.y5.hu/stream/stream_rtlp/stream.m3u8",
         "_comment": "good",
@@ -252,6 +262,7 @@
     },
     {
         "name": "TV2 HD",
+        "tvg-id": "tv2.hu",
         "logo": null,
         "url": "http://193.33.39.106:8782/",
         "_comment": "good",
@@ -276,6 +287,7 @@
     },
     {
         "name": "Super TV2",
+        "tvg-id": "SuperTV2.hu",
         "logo": null,
         "url": "",
         "_comment": "bad",
@@ -300,6 +312,7 @@
     },
     {
         "name": "TV4",
+        "tvg-id": "TV4.hu",
         "logo": null,
         "url": "",
         "_comment": "bad",
@@ -324,6 +337,7 @@
     },
     {
         "name": "Hír TV",
+        "tvg-id": "HirTV.hu",
         "logo": "https://i.mjh.nz/.images/tv.101406020625.png",
         "url": "https://streamjump2.mediaworld.gq:443/hirtv/00QMyEzNwIjN.m3u8",
         "_comment": "bad",
@@ -348,6 +362,7 @@
     },
     {
         "name": "Life TV",
+        "tvg-id": "LifeTV.hu",
         "logo": "https://i.mjh.nz/.images/tv.101406020625.png",
         "url": "https://streaming.mytvback.com:443/stream/qG36mSlnsm0AxososjWBcg/1628292876/channel043/stream.m3u8",
         "_comment": "bad",
@@ -371,7 +386,8 @@
         }
     },
     {
-        "name": "Viasat 3",
+        "name": "VIASAT3",
+        "tvg-id": "Viasat3.hu",
         "logo": null,
         "url": "",
         "_comment": "bad",
@@ -395,7 +411,8 @@
         }
     },
     {
-        "name": "Viasat 6",
+        "name": "VIASAT6",
+        "tvg-id": "VIASAT6.hu",
         "logo": null,
         "url": "",
         "_comment": "bad",
@@ -419,7 +436,33 @@
         }
     },
     {
-        "name": "Story 4",
+        "name": "STORY4",
+        "tvg-id": "STORY4.hu",
+        "logo": null,
+        "url": "",
+        "_comment": "bad",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "Plustdp.es",
+            "name": "+tdp",
+            "url": null
+        }
+    },
+    {
+        "name": "STORY5",
+        "tvg-id": "STORY5.hu",
         "logo": null,
         "url": "",
         "_comment": "bad",
@@ -444,6 +487,7 @@
     },
     {
         "name": "Prime",
+        "tvg-ide": "Prime.hu",
         "logo": null,
         "url": "",
         "_comment": "bad",
@@ -468,6 +512,7 @@
     },
     {
         "name": "ATV",
+        "tvg-id": "MagyarATV.hu",
         "logo": null,
         "url": "https://stream.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8",
         "_comment": "bad",
@@ -491,9 +536,10 @@
         }
     },
     {
-        "name": "Film+ HD",
-        "logo": null,
-        "url": "https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8",
+        "name": "Film Mánia",
+        "tvg-id": "FilmMania.hu",
+        "logo": "https://i.mjh.nz/.images/tv.101406020625.png",
+        "url": "",
         "_comment": "bad",
         "category": null,
         "languages": [
@@ -509,8 +555,8 @@
             }
         ],
         "tvg": {
-            "id": "Plustdp.es",
-            "name": "+tdp",
+            "id": "10.au",
+            "name": "10",
             "url": null
         }
     },
@@ -539,7 +585,133 @@
         }
     },
     {
-        "name": "Filmbox Premium",
+        "name": "Film+ HD",
+        "tvg-id": "FilmPlus.hu",
+        "logo": null,
+        "url": "https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8",
+        "_comment": "bad",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "Plustdp.es",
+            "name": "+tdp",
+            "url": null
+        }
+    },
+    {
+        "name": "Film+ 2",
+        "tvg-id": "FilmPlus2.hu",
+        "logo": null,
+        "url": "https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8",
+        "_comment": "bad",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "Plustdp.es",
+            "name": "+tdp",
+            "url": null
+        }
+    },
+    {
+        "name": "Film4",
+        "tvg-id": "Film4.hu",
+        "logo": "https://i.mjh.nz/.images/tv.101406020625.png",
+        "url": "",
+        "_comment": "bad",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "Filmbox",
+        "tvg-id": "Filmbox.hu",
+        "logo": null,
+        "url": "",
+        "_comment": "bad",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "1TV.am",
+            "name": "1 TV",
+            "url": null
+        }
+    },
+    {
+        "name": "Filmbox Extra"
+        "tvg-id": "FilmboxExtra.hu",
+        "logo": null,
+        "url": "",
+        "_comment": "bad",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "1TV.am",
+            "name": "1 TV",
+            "url": null
+        }
+    },
+    {
+        "name": "Filmbox Extra HD"
+        "tvg-id": "FilmboxExtraHD.hu",
         "logo": null,
         "url": "",
         "_comment": "bad",
@@ -564,6 +736,7 @@
     },
     {
         "name": "Filmbox Family",
+        "tvg-id": "FilmboxFamily.hu",
         "logo": null,
         "url": "",
         "_comment": "bad",
@@ -587,7 +760,8 @@
         }
     },
     {
-        "name": "Filmbox Stars",
+        "name": "Filmbox Plus",
+        "tvg-id": "FilmboxPlus.hu",
         "logo": null,
         "url": "",
         "_comment": "bad",
@@ -611,7 +785,8 @@
         }
     },
     {
-        "name": "Filmbox",
+        "name": "Filmbox Premium",
+        "tvg-id": "FilmboxPremium.hu",
         "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/123tv.png",
         "url": "",
         "_comment": "bad",
@@ -635,55 +810,8 @@
         }
     },
     {
-        "name": "Film Café",
-        "logo": "https://i.mjh.nz/.images/tv.101406020625.png",
-        "url": "",
-        "_comment": "bad",
-        "category": null,
-        "languages": [
-            {
-                "code": "hu",
-                "name": "Hungarian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "hu",
-                "name": "Hungarian"
-            }
-        ],
-        "tvg": {
-            "id": "10.au",
-            "name": "10",
-            "url": null
-        }
-    },
-    {
-        "name": "Film Mánia",
-        "logo": "https://i.mjh.nz/.images/tv.101406020625.png",
-        "url": "",
-        "_comment": "bad",
-        "category": null,
-        "languages": [
-            {
-                "code": "hu",
-                "name": "Hungarian"
-            }
-        ],
-        "countries": [
-            {
-                "code": "hu",
-                "name": "Hungarian"
-            }
-        ],
-        "tvg": {
-            "id": "10.au",
-            "name": "10",
-            "url": null
-        }
-    },
-    {
-        "name": "Film4",
+        "name": "Filmcafe",
+        "tvg-id": "FilmCafe.hu",
         "logo": "https://i.mjh.nz/.images/tv.101406020625.png",
         "url": "",
         "_comment": "bad",
