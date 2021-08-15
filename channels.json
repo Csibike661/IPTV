@@ -685,7 +685,7 @@
         }
     },
     {
-        "name": "Filmbox Extra"
+        "name": "Filmbox Extra",
         "tvg-id": "FilmboxExtra.hu",
         "logo": null,
         "url": "",
@@ -710,7 +710,7 @@
         }
     },
     {
-        "name": "Filmbox Extra HD"
+        "name": "Filmbox Extra HD",
         "tvg-id": "FilmboxExtraHD.hu",
         "logo": null,
         "url": "",
