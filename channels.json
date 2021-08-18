@@ -1363,9 +1363,345 @@
         }
     },
     {
-        "name": "",
+        "name": "ALTITUDE SPORTS",
         "logo": "",
-        "url": "",
+        "url": "http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/200936?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "AT&T SPORTSNET PITTSBURGH",
+        "logo": "",
+        "url": "http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/200927?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "AT&T SportsNet Southwest HD",
+        "logo": "",
+        "url": "http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/211054?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "AT&T Sportsnet ROCKY MOUNTAIN",
+        "logo": "",
+        "url": "http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/200928?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "BALLY SPORTS OKLAHOMA",
+        "logo": "",
+        "url": "http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11592?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "BEIN SPORTS EN ESPANOL",
+        "logo": "",
+        "url": "http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1041107?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "Bally Sports Detroit HD",
+        "logo": "",
+        "url": "http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/149426?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "Bally Sports South east (Atlanta)",
+        "logo": "",
+        "url": "http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/16984?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "BeIN Sports HD",
+        "logo": "",
+        "url": "http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/149371?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "BeIN Sports Xtra HD",
+        "logo": "",
+        "url": "http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/174567?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "Bein Sports Xtra HD",
+        "logo": "",
+        "url": "http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/151097?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "CBS (SPORTS NETWORK) SD",
+        "logo": "",
+        "url": "http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/213920?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "CBS SPORTS NET",
+        "logo": "",
+        "url": "http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39088?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "EDGESport",
+        "logo": "",
+        "url": "https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8?checkedby:iptvcat.com",
+        "_comment": "good",
+        "category": null,
+        "languages": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "countries": [
+            {
+                "code": "hu",
+                "name": "Hungarian"
+            }
+        ],
+        "tvg": {
+            "id": "10.au",
+            "name": "10",
+            "url": null
+        }
+    },
+    {
+        "name": "Eleven Sports Network",
+        "logo": "",
+        "url": "http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/17046?checkedby:iptvcat.com",
         "_comment": "good",
         "category": null,
         "languages": [
